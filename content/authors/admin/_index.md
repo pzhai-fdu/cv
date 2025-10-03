@@ -1,13 +1,12 @@
 ---
 # Display name
-title: Alex Johnson
+title: Peng Zhai
 
 # Name pronunciation (optional)
-name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Peng
+last_name: Zhai
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,120 +22,61 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Fudan University
+    url: https://www.fudan.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'pzhai@fudan.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+#  - icon: brands/x
+#    url: https://twitter.com/AlexAIResearch
+#  - icon: brands/github
+#    url: https://github.com/alexjohnsonai
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/in/alexjohnsonai/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/citations?user=alexjohnson
+#  - icon: academicons/orcid
+#    url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Embodied Intelligence
+  - Legged Robot
   - Reinforcement Learning
-  - AI Ethics
+  - Wearable Devices
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
+  - area: PhD Computer Application Technology
+    institution: Fudan University
+    date_start: 2018-09
+    date_end: 2022-06
+
+  - area: MS Control Theory and Control Engineering
+    institution: Ocean University of China
     date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
+    date_end: 2018-06-30
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
+  - area: BS Electronic and Information Engineering
+    institution: Hainan University
+    date_start: 20011-09-01
+    date_end: 2015-06-30
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
+  - position: Research Fellow
+    company_name: Fudan University
     date_start: 2020-01-01
     date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-        icon: book-open
-
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+  - position: Postdoctoral Fellow
+    company_name: Fudan University
+    date_start: 2022-07-14
+    date_end: 2025-5-31
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +106,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Peng Zhai, Ph.D. in Science, is a Youth Researcher at the Institute of Intelligent Robotics and Advanced Manufacturing, Fudan University. He was selected for the China Postdoctoral Innovation Talent Support Program (“Bo Xin Program”), the Shanghai Super Postdoctoral Incentive Program, and the Huawei Talent Funding Program.
+His research interests include embodied intelligence, robust intelligent control for robots, and wearable devices. In recent years, he has led several projects funded by the China Postdoctoral Science Foundation, National Key Laboratory Open Fund, and Shanghai Artificial Intelligence Major Project (Pre-research).
+He has published over 30 academic papers, including 17 as the first or corresponding author in top-tier journals and conferences such as Nature, IEEE Robotics and Automation Letters (RA-L), AAAI, NeurIPS, and ICRA. His research achievements have been recognized among the Top 10 Research Advances in China’s Semiconductor Industry, Top 10 Advances in Chinese Optics, and have received Gold and Silver Medals at the Geneva International Exhibition of Inventions.

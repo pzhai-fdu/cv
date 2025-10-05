@@ -17,6 +17,5 @@ publication: '*IEEE Transactions on Circuits and Systems for Video Technology*'
 doi: 10.1109/TCSVT.2024.3435561
 tags:
 - Correlation;Visualization;Semantics;Circuits and systems;Feature extraction;Transformers;Multisensory
-  integration;Sentiment analysis;Videos;Asynchronous sequence fusion;multimodal representation;adversarial
-  learning;feature decoupling;human sentiment understanding in videos
+  integration;Sentiment analysis
 ---

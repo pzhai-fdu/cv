@@ -13,7 +13,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: 🤖
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,8 +55,8 @@ interests:
 education:
   - area: PhD Computer Application Technology
     institution: Fudan University
-    date_start: 2018-09
-    date_end: 2022-06
+    date_start: 2018-09-01
+    date_end: 2022-06-25
 
   - area: MS Control Theory and Control Engineering
     institution: Ocean University of China
@@ -65,7 +65,7 @@ education:
 
   - area: BS Electronic and Information Engineering
     institution: Hainan University
-    date_start: 20011-09-01
+    date_start: 2011-09-01
     date_end: 2015-06-30
 
 work:
@@ -76,7 +76,7 @@ work:
   - position: Postdoctoral Fellow
     company_name: Fudan University
     date_start: 2022-07-14
-    date_end: 2025-5-31
+    date_end: 2025-05-31
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -97,10 +97,10 @@ awards:
     icon: hero/currency-dollar
     summary: |
       $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
+  - title: Academic Star
+    # url: https://www.stanford.edu/
+    date: '2022-05-21'
+    awarder: Fudan University
     icon: hero/academic-cap
     summary: |
       Recognized for contributions to scaling laws in deep learning.

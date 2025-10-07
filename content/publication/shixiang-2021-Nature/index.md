@@ -19,4 +19,6 @@ weight: 4              # ✅ 排序（可选）
 publication_types:
 - article-journal
 publication: '*Nature*'
+tags:
+- Wearable Devices；Textiles Display
 ---
